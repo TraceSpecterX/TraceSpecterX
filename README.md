@@ -6,12 +6,11 @@ I'm building a practical foundation in cybersecurity with a focus on security mo
 
 ## About me
 
-- 🎯 Career goal: **SOC Analyst / Blue Team**
-- 🎓 Starting the **Cybersecurity Bootcamp at The Bridge** in September 2026
-- 📚 Completing the **Cisco Junior Cybersecurity Analyst Career Path**
-- 🧠 Currently learning networking, Windows/Linux security, Wireshark, Bash and Python
-- 🧪 Planning a documented **Wazuh SOC homelab** as a parallel bootcamp project
-- 🌍 Based in Spain
+- 🎯 Career goal: SOC Analyst / Blue Team
+- ✅ Completed the Cisco Junior Cybersecurity Analyst Career Path
+- 🎓 Starting the Cybersecurity Bootcamp at The Bridge on September 28, 2026
+- 🧠 Currently strengthening my skills in networking, Windows/Linux security, Wireshark, Bash and Python
+- 🧪 Planning a documented Wazuh SOC homelab as a parallel bootcamp project
 
 ## Current focus
 
@@ -20,6 +19,10 @@ I'm building a practical foundation in cybersecurity with a focus on security mo
 - Linux and Windows event logs
 - Wireshark traffic analysis
 - Python and Bash fundamentals for security automation
+
+## Certifications & Credentials
+
+- [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/earner/earned/badge/9d719d94-a1b4-471f-9825-f27bfb9c78f5)
 
 ## Upcoming projects
 
