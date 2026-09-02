@@ -22,7 +22,7 @@ I'm building a practical foundation in cybersecurity with a focus on security mo
 
 ## Certifications & Credentials
 
-- [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/earner/earned/badge/9d719d94-a1b4-471f-9825-f27bfb9c78f5)
+- [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/9d719d94-a1b4-471f-9825-f27bfb9c78f5/public_url)
 
 ## Upcoming projects
 
