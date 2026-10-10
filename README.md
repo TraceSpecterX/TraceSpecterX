@@ -1,37 +1,37 @@
-# Hi, I'm Mike 👋
+# Hola, soy Mike 👋
 
-### Cybersecurity Analyst in training | SOC & Blue Team
+### Analista de ciberseguridad en formación | SOC y Blue Team
 
-I'm building a practical foundation in cybersecurity with a focus on security monitoring, network defense, log analysis and incident investigation.
+Estoy construyendo una base práctica en ciberseguridad, centrada en la monitorización de seguridad, la defensa de redes, el análisis de logs y la investigación de incidentes.
 
-## About me
+## Sobre mí
 
-- 🎯 Career goal: SOC Analyst / Blue Team
-- ✅ Completed the Cisco Junior Cybersecurity Analyst Career Path
-- 🎓 Starting the Cybersecurity Bootcamp at The Bridge on September 28, 2026
-- 🧠 Currently strengthening my skills in networking, Windows/Linux security, Wireshark, Bash and Python
-- 🧪 Planning a documented Wazuh SOC homelab as a parallel bootcamp project
+- 🎯 Objetivo profesional: Analista SOC / Blue Team
+- ✅ Completado el Cisco Junior Cybersecurity Analyst Career Path
+- 🎓 Cursando el Bootcamp de Ciberseguridad de The Bridge desde el 28 de septiembre de 2026
+- 🧠 Reforzando mis conocimientos de redes, seguridad en Windows/Linux, Wireshark, Bash y Python
+- 🧪 Construyendo un Home SOC Lab documentado con Wazuh como proyecto paralelo al bootcamp
 
-## Current focus
+## Enfoque actual
 
-- Cyber threat management
-- Network and endpoint security
-- Linux and Windows event logs
-- Wireshark traffic analysis
-- Python and Bash fundamentals for security automation
+- Gestión de ciberamenazas
+- Seguridad de redes y endpoints
+- Registros de eventos de Linux y Windows
+- Análisis de tráfico con Wireshark
+- Fundamentos de Python y Bash para automatizar tareas de seguridad
 
-## Certifications & Credentials
+## Certificaciones y credenciales
 
 - [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/9d719d94-a1b4-471f-9825-f27bfb9c78f5/public_url)
 
-## Upcoming projects
+## Próximos proyectos
 
-- `soc-homelab-wazuh` — endpoint monitoring, alert triage and detection engineering
-- `network-forensics-lab` — packet analysis and investigation case studies
-- `mini-siem-python` — log parsing and basic alert generation
+- `soc-homelab-wazuh` — monitorización de endpoints, triaje de alertas e ingeniería de detección
+- `network-forensics-lab` — análisis de paquetes y casos de investigación
+- `mini-siem-python` — análisis de logs y generación básica de alertas
 
-> This profile documents my learning journey through reproducible labs, honest technical analysis and continuous improvement.
+> Este perfil documenta mi camino de aprendizaje a través de laboratorios reproducibles, análisis técnico honesto y mejora continua.
 
-## Connect
+## Contacto
 
 - LinkedIn: [Michael Carcellé](https://www.linkedin.com/in/michael-carcell%C3%A9-844823347/)
