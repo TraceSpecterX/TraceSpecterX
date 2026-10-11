@@ -24,9 +24,18 @@ Estoy construyendo una base práctica en ciberseguridad, centrada en la monitori
 
 - [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/9d719d94-a1b4-471f-9825-f27bfb9c78f5/public_url)
 
+## Proyectos
+
+| Proyecto | Área | Descripción |
+|---|---|---|
+| [**GetDinosaur**](https://github.com/TraceSpecterX/GetDinosaur) | Análisis forense de red | Reconstrucción con Wireshark de una intrusión a partir de un PCAP, hasta un panel que expone credenciales en texto plano. |
+| [**BreadCrumbs**](https://github.com/TraceSpecterX/BreadCrumbs) | OSINT | Análisis de metadatos EXIF con ExifTool para reconstruir dónde y cuándo se tomaron cinco fotografías. |
+| **Ebro Games · Home SOC Lab** *(en construcción)* | SOC · Blue Team | Proyecto final del bootcamp: laboratorio aislado con Wazuh, firewall propio en Python y reconstrucción de incidentes. Se publicará al terminarlo. |
+
+Los retos proceden de *The Breach* (ThePwnLab), la plataforma de prácticas del Bootcamp de Ciberseguridad de The Bridge.
+
 ## Próximos proyectos
 
-- `soc-homelab-wazuh` — monitorización de endpoints, triaje de alertas e ingeniería de detección
 - `network-forensics-lab` — análisis de paquetes y casos de investigación
 - `mini-siem-python` — análisis de logs y generación básica de alertas
 
